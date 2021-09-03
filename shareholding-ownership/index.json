@@ -36,7 +36,7 @@
   "environment": {
     "uilayout": "terminal-iframe",
     "showdashboard": true,
-    "dashboards": [{"name": "Nebula-Studio", "port": 7001}],
+    "dashboards": [{"name": "Nebula-Studio", "port": 7001}]
   },
   "backend": {
     "imageid": "ubuntu:2004",
