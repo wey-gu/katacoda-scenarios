@@ -35,7 +35,7 @@
     "dashboards": [{"name": "Siwi Agent", "port": 80}]
   },
   "backend": {
-    "imageid": "minikube-running",
+    "imageid": "kubernetes",
     "port": "80"
   }
 }
