@@ -1,5 +1,3 @@
-## Scale out the Nebula Cluster in K8s way
-
 Let's try scaling out the storage, shall we? How about scaling out to 4 instances?
 
 - Let's modify the CRD of `Kind:nebulaCluster.spec.storaged.replicas` from `3` to `4`

@@ -1,5 +1,3 @@
-## Connect to Nebula Cluster with Console.
-
 Let's connect the Graph DB from the Nebula Console for the initial exploration.
 
 > Please get the `<host_ip>` with the IP you got just before:

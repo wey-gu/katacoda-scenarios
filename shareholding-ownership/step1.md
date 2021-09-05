@@ -1,7 +1,5 @@
 In this step, we will bootstrap a Nebula Graph Cluster and Studio Web App in Container with Nebula-Up, please note Nebula-Up is not built for Productions but only a playground setup tool.
 
-## Deploy Nebula Graph and Nebula Studio
-
 There are quite a few deployment methods supported for Nebula Graph, please read them all from the Documentations: [Docs](https://docs.nebula-graph.io) , [文档](https://docs.nebula-graph.com.cn).
 
 Today, in our course, it's simple and easy with [Nebula-Up](https://siwei.io/nebula-up), just an one-liner call like:

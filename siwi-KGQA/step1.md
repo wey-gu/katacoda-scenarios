@@ -1,5 +1,3 @@
-## Boostrap a Nebula Cluster in K8s
-
 It's quite easy to do so with [Nebula-Operator](https://github.com/vesoft-inc/nebula-operator) already, while we could make it even easier with [Nebula-Operator-KIND](https://github.com/wey-gu/nebula-operator-kind).
 
 Just call this one-liner: `curl -sL nebula-kind.siwei.io/install-on-k8s.sh | bash`{{execute}} 
