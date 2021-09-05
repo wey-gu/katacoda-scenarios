@@ -23,7 +23,7 @@ Let's try scaling out the storage, shall we? How about scaling out to 4 instance
   nebula-storaged-3   1/1     Running   0          2m35s
   NAME     GRAPHD-DESIRED   GRAPHD-READY   METAD-DESIRED   METAD-READY   STORAGED-DESIRED   STORAGED-READY   AGE
   nebula   1                1              1               1             4                  4                36m
-
+  ```
 - Boom! It's 4 of them now!
 
 So why not continue to check from the nebula cluster?
