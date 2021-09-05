@@ -35,7 +35,7 @@
     "dashboards": [{"name": "Siwi Agent", "port": 80}]
   },
   "backend": {
-    "imageid": "kubernetes",
+    "imageid": "kubernetes-cluster:1.18",
     "port": "80"
   }
 }
