@@ -67,9 +67,21 @@ curl --header "Content-Type: application/json" \
 Then we setup the front-end part:
 ```
 apt update; apt install nginx -y
+```{{execute}}
+
+```
 curl https://raw.githubusercontent.com/wey-gu/nebula-siwi/main/conf/siwi-nginx.conf -o /etc/nginx/nginx.conf
+```{{execute}}
+
+```
 systemctl restart nginx
+```{{execute}}
+
+```
 git clone https://github.com/wey-gu/nebula-siwi.git
+```{{execute}}
+
+```
 python3 -m http.server 8082 --directory nebula-siwi/src/siwi_frontend/dist/
 ```{{execute}}
 
