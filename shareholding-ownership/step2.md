@@ -4,7 +4,7 @@ It's automatically generated in https://github.com/wey-gu/nebula-shareholding-ex
 
 The graph schema is quite straightforward:
 
-![data_moedeling](https://github.com/wey-gu/nebula-shareholding-example/raw/main/images/modeling.png)
+![data_moedeling](https://raw.githubusercontent.com/wey-gu/nebula-shareholding-example/main/images/modeling.png)
 
 It comes with two kind of entities: person and corp, and with following relationship types.
 

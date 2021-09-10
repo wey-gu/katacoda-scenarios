@@ -87,12 +87,12 @@ show hosts
 
 Before we step to next part, let's execute the console first:
 ```
-exit;hostname
+exit;
 ```{{execute}}
 
 Then exit the console container:
 ```
-exit;hostname
+exit;
 ```{{execute}}
 
 Congrats! Now you have a up and running Nebula Cluster and you could access it with both GUI and CLI~
