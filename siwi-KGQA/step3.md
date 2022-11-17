@@ -8,6 +8,6 @@ Let's download the data file first: `wget https://docs.nebula-graph.io/2.0/baske
 >
 > Check out here: https://marketplace.visualstudio.com/items?itemName=wey-gu.vscode-ngql
 
-Let's import the data with console: `~/.nebula-k8s/bin/console -u root -p password --address=127.0.0.1 --port=32669 -f basketballplayer-2.X.ngql`{{execute}}
+Let's import the data with console: `~/.nebula-k8s/bin/console -u root -p password --address=127.0.0.1 --port=32669 -e ":play basketballplayer"`{{execute}}
 
 So.... what's next? Introducing Siwi, the world least powerful KGQA powerred by Nebula Graph.
